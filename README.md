@@ -21,6 +21,4 @@
 
 - Foco em Conversão: O rodapé foi desenhado com um CTA (Call to Action) claro para o e-mail e LinkedIn, facilitando o contato direto de recrutadores.
 
-
-
-Seção de Certificações Estruturada: Organização estratégica das conquistas da AWS e FinOps para destacar a autoridade técnica do profissional logo no primeiro contato visual.
+- Seção de Certificações Estruturada: Organização estratégica das conquistas da AWS e FinOps para destacar a autoridade técnica do profissional logo no primeiro contato visual.
